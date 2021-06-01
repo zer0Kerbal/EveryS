@@ -1,0 +1,29 @@
+  <ItemGroup>
+    <Content Include="Properties\AssemblyFileVersion.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>AssemblyFileVersion.cs</LastGenOutput>
+    </Content>
+    <Content Include="Properties\Version.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>Version.cs</LastGenOutput>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <PreBuildEvent>
+        cmd /d C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\texttransform.exe "$(ProjectDir)Version.tt"
+        cmd /d C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\texttransform.exe "$(ProjectDir)AssemblyFileVersion.tt"
+    </PreBuildEvent>
+  </PropertyGroup>
+  
+  <PropertyGroup>
+    <PostBuildEvent>
+    start /D $(ProjectDir)..\  /WAIT .deploy.bat  $(TargetDir) $(TargetFileName)
+    if $(ConfigurationName) == Release start /D $(ProjectDir)..\   /WAIT .buildRelease.bat $(TargetDir) $(TargetFileName)
+    if $(ConfigurationName) == Release start /D $(ProjectDir)..\   /WAIT .buildReleaseJSON.bat $(TargetDir) $(TargetFileName)
+    </PostBuildEvent>
+  </PropertyGroup>
