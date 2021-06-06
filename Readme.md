@@ -1,22 +1,21 @@
 <!-- Readme.md v1.1.4.0
-MODNAME ()
+EveryS ()
 created: 01 Oct 19
 updated: 2020 04 10 -->
 
 ## Download on [SpaceDock][MOD:spacedock] or [Github][MOD:github] or [Curseforge][MOD:curseforge]. Also available on [CKAN][MOD:ckan].  
 
-# Coyote Cargo Freighter ()
-#### by Coyote Space Industries
-## The Common Part Inventory
-#### Adopted by [@zer0Kerbal][LINK:zer0kerbal], originally by [@dboi88][LINK:dboi88]  
+# EveryS is a Bad S ()
+#### by BiffSpace
+#### Adopted by [@zer0Kerbal][LINK:zer0kerbal], originally by [@BiffSpace][LINK:BiffSpace]  
 ![Mod Version][shield:mod:latest] 
 ![KSP version][shield:ksp] ![KSP-AVC][shield:kspavc] ![License MIT][shield:license] ![][LOGO:mit]   
 ![SpaceDock][shield:spacedock] ![CKAN][shield:ckan] ![GitHub][shield:github] ![Curseforge][shield:curseforge]  
 ![Code][shield:code] ![Validate AVC .version files][shield:avcvalid]  
 ***
-![MODNAME][IMG:hero:0]
-### Preamble by [@dboi88][LINK:dboi88]: 
-> So you may have heard that @magico13 is giving up modding KSP. I've got the honour of taking over support for MODNAME, because it makes sense as I have my own mod that depends on it (Oh Scrap!). I want to take this opportunity to thank magico13 for all his hard work and contributions to the community over the years, as I know that my own KSP experience would be much poorer without his mods. Anyway, enough from me.
+![EveryS][IMG:hero:0]
+### Preamble by [@BiffSpace][LINK:BiffSpace]: 
+> So you may have heard that @magico13 is giving up modding KSP. I've got the honour of taking over support for EveryS, because it makes sense as I have my own mod that depends on it (Oh Scrap!). I want to take this opportunity to thank magico13 for all his hard work and contributions to the community over the years, as I know that my own KSP experience would be much poorer without his mods. Anyway, enough from me.
 ### Installation Directions:
 - Use CKAN  
 ![][image:ckan][CKAN][MOD:ckan]
@@ -69,7 +68,7 @@ License: ![License MIT][shield:license] ![][LOGO:MIT]
 > *** All bundled mods are distributed under their own licenses***  
 > *** All art assets (textures, models, animations) are distributed under their own licenses***   
 ### Original
-Author: [@dboi88][LINK:dboi88]  
+Author: [@BiffSpace][LINK:BiffSpace]  
 [Thread][MOD:original:thread]  
 [Download][MOD:original:download]  
 Source: [GitHub][MOD:original:source]  
@@ -82,33 +81,31 @@ License: ![License MIT][shield:license:original] ![][LOGO:mit]
 
 ###### v2.0.1.0 original: 01 Oct 2019 zed'K | updated: 16 Mar 2020 zed'K
 
-[MOD:license]:	  https://github.com/zer0Kerbal/MODNAME/blob/master/LICENSE
-[MOD:contributing]: https://github.com/zer0Kerbal/MODNAME/blob/master/.github/CONTRIBUTING.md
-[MOD:wiki]:		 https://github.com/zer0Kerbal/MODNAME/
-[MOD:issues]:	   https://github.com/zer0Kerbal/MODNAME/issues
-[MOD:known]:		https://github.com/zer0Kerbal/MODNAME/wiki/Known-Issues
+[MOD:license]:	    https://github.com/zer0Kerbal/EveryS/blob/master/LICENSE
+[MOD:contributing]: https://github.com/zer0Kerbal/EveryS/blob/master/.github/CONTRIBUTING.md
+[MOD:wiki]:		 https://github.com/zer0Kerbal/EveryS/
+[MOD:issues]:	   https://github.com/zer0Kerbal/EveryS/issues
+[MOD:known]:		https://github.com/zer0Kerbal/EveryS/wiki/Known-Issues
 [MOD:forum]:		https://forum.kerbalspaceprogram.com/index.php?/topic/192456-*
-[MOD:github:repo]:  https://github.com/zer0Kerbal/MODNAME/
-[MOD:changelog]:	https://github.com/zer0Kerbal/MODNAME/Changelog.cfg
+[MOD:github:repo]:  https://github.com/zer0Kerbal/EveryS/
+[MOD:changelog]:	https://github.com/zer0Kerbal/EveryS/Changelog.cfg
 [KSP:website]:	  https://kerbalspaceprogram.com/ "Kerbal Space Program"  
 
 <!--- original mod stuff -->
-[MOD:original:source]:	 https://github.com/dboi88/CSI-Cargo-Freighter
+[MOD:original:source]:	 https://github.com/zer0Kerbal/EveryS
 [MOD:original:thread]:	 https://forum.kerbalspaceprogram.com/index.php?/topic/159615-*
-[MOD:original:download]:   https://spacedock.info/mod/1332/
+[MOD:original:download]:   https://spacedock.info/mod/612/
 [shield:license:original]: https://img.shields.io/badge/License-WTFPL-red?backgroud=black?style=plastic "WTFPL"
 
-<!--- license logo urls -->
-[LOGO:mit]:   https://i.postimg.cc/bvjfsMP5/MIT-17x17.png "MIT"  
-[LOGO:wtfpl]: https://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png "WTFPL"  
+<!--- license logo urls -->  
 [LOGO:gplv3]: https://i.postimg.cc/90kCDs7K/gplv3-48x17.png "GPLv3"  
-[LOGO:gplv2]: https://i.postimg.cc/9FrwMgK6/GPL-17x17.png "GPLv2"
-[LOGO:ccbysa4]: https://licensebuttons.net/l/by-sa/4.0/80x15.png "CC BY-SA-4.0"  [MOD:original:license:shield]:  https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 3.0"   
+  
+[MOD:original:license:shield]:  https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 3.0"   
 
 [MOD:ckan]:	  https://forum.kerbalspaceprogram.com/index.php?/topic/90246-* "CKAN"  
-[MOD:github]:	https://github.com/zer0Kerbal/MODNAME/releases/latest "GitHub"  
+[MOD:github]:	https://github.com/zer0Kerbal/EveryS/releases/latest "GitHub"  
 [MOD:spacedock]: https://spacedock.info/mod/1332 "SpaceDock"  
-[MOD:curseforge]: https://www.curseforge.com/kerbal/ksp-mods/MODNAME "CurseForge"  
+[MOD:curseforge]: https://www.curseforge.com/kerbal/ksp-mods/EveryS "CurseForge"  
 
 [image:github]:	 https://i.imgur.com/RE4Ppr9.png
 [image:spacedock]:  https://i.imgur.com/m0a7tn2.png
@@ -121,17 +118,17 @@ License: ![License MIT][shield:license:original] ![][LOGO:mit]
 [image:spacedock-sm]:  https://i.postimg.cc/DZ22Hrhj/spacedock.png
 [image:curseforge-sm]: https://i.postimg.cc/ZRVTSWKT/UVVt0OP.png
   
-[shield:mod:latest]: https://img.shields.io/github/v/release/zer0Kerbal/MODNAME?include_prereleases?style=plastic
-[shield:mod]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MODNAME/master/json/mod.json
-[shield:ksp]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MODNAME/master/json/ksp.json
-[shield:license]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MODNAME/master/json/license.json
-[shield:code]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MODNAME/master/json/code.json
+[shield:mod:latest]: https://img.shields.io/github/v/release/zer0Kerbal/EveryS?include_prereleases?style=plastic
+[shield:mod]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/EveryS/master/json/mod.json
+[shield:ksp]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/EveryS/master/json/ksp.json
+[shield:license]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/EveryS/master/json/license.json
+[shield:code]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/EveryS/master/json/code.json
 [shield:kspavc]:	 https://img.shields.io/badge/KSP-AVC--supported-brightgreen.svg?style=plastic
 [shield:spacedock]:  https://img.shields.io/badge/SpaceDock-listed-blue.svg?style=plastic
 [shield:ckan]:	   https://img.shields.io/badge/CKAN-Indexed-blue.svg?style=plastic
 [shield:github]:	 https://img.shields.io/badge/Github-Indexed-blue.svg?style=plastic&logo=github
 [shield:curseforge]: https://img.shields.io/badge/CurseForge-listed-blue.svg?style=plastic
-[shield:avcvalid]:	https://github.com/zer0Kerbal/MODNAME/workflows/Validate%20AVC%20.version%20files/badge.svg
+[shield:avcvalid]:	https://github.com/zer0Kerbal/EveryS/workflows/Validate%20AVC%20.version%20files/badge.svg
 
 <!-- zer0Kerbal mods -->
 [thread:ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-* "On Demand Fuel Cells"  
@@ -191,7 +188,7 @@ License: ![License MIT][shield:license:original] ![][LOGO:mit]
 
 [thread:getsupport]: https://forum.kerbalspaceprogram.com/index.php?/topic/83212-* "Link to how to get support"  
 
-[LINK:dboi88]:	https://forum.kerbalspaceprogram.com/index.php?/profile/150676-dboi88/ "dboi88"  
+[LINK:BiffSpace]:	https://forum.kerbalspaceprogram.com/index.php?/profile/110793-biff-space/ "BiffSpace"  
 [LINK:zer0Kerbal]:	 https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/ "zed'K"  
 
 [IMG:hero:0]: https://i.imgur.com/DVDdgU1.png
